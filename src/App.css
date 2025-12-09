@@ -235,6 +235,13 @@ body {
   justify-content: center;
 }
 
+.tag:hover {
+  transform: translateY(-2px);
+  background: #e0edff;
+  border-color: var(--accent-primary);
+  box-shadow: 0 6px 14px rgba(15, 23, 42, 0.18);
+}
+
 .tag-icon img {
   max-width: 100%;
   max-height: 100%;
