@@ -37,49 +37,49 @@ function About() {
             <div className="tag-list">
               <div className="tag">
                 <div className="tag-icon">
-                  <img src="/icons/javascript.svg" />
+                  <img src="icons/javascript.svg" />
                 </div>
                 JavaScript
               </div>
               <div className="tag">
                 <div className="tag-icon">
-                  <img src="/icons/html.svg" />
+                  <img src="icons/html.svg" />
                 </div>
                 HTML
               </div>
               <div className="tag">
                 <div className="tag-icon">
-                  <img src="/icons/css.svg" />
+                  <img src="icons/css.svg" />
                 </div>
                 CSS
               </div>
               <div className="tag">
                 <div className="tag-icon">
-                  <img src="/icons/php.svg" />
+                  <img src="icons/php.svg" />
                 </div>
                 PHP
               </div>
               <div className="tag">
                 <div className="tag-icon">
-                  <img src="/icons/python.svg" />
+                  <img src="icons/python.svg" />
                 </div>
                 Python
               </div>
               <div className="tag">
                 <div className="tag-icon">
-                  <img src="/icons/java.svg" />
+                  <img src="icons/java.svg" />
                 </div>
                 Java
               </div>
               <div className="tag">
                 <div className="tag-icon">
-                  <img src="/icons/sql.svg" />
+                  <img src="icons/sql.svg" />
                 </div>
                 SQL
               </div>
               <div className="tag">
                 <div className="tag-icon">
-                  <img src="/icons/c.svg" />
+                  <img src="icons/c.svg" />
                 </div>
                 C++
               </div>
@@ -91,43 +91,43 @@ function About() {
             <div className="tag-list">
               <div className="tag">
                 <div className="tag-icon">
-                  <img src="/icons/github.svg" />
+                  <img src="icons/github.svg" />
                 </div>
                 GitHub
               </div>
               <div className="tag">
                 <div className="tag-icon">
-                  <img src="/icons/vscod.svg" />
+                  <img src="icons/vscod.svg" />
                 </div>
                 VS Code
               </div>
               <div className="tag">
                 <div className="tag-icon">
-                  <img src="/icons/figma.svg" />
+                  <img src="icons/figma.svg" />
                 </div>
                 Figma
               </div>
               <div className="tag">
                 <div className="tag-icon">
-                  <img src="/icons/hadoop.svg" className="logo-boost" />
+                  <img src="icons/hadoop.svg" className="logo-boost" />
                 </div>
                 Hadoop
               </div>
               <div className="tag">
                 <div className="tag-icon">
-                  <img src="/icons/spark.svg" className="logo-boost" />
+                  <img src="icons/spark.svg" className="logo-boost" />
                 </div>
                 Spark
               </div>
               <div className="tag">
                 <div className="tag-icon">
-                  <img src="/icons/docker.svg" />
+                  <img src="icons/docker.svg" />
                 </div>
                 Docker
               </div>
               <div className="tag">
                 <div className="tag-icon">
-                  <img src="/icons/mysql.svg" className="logo-boost" />
+                  <img src="icons/mysql.svg" className="logo-boost" />
                 </div>
                 MySQL
               </div>
@@ -157,7 +157,7 @@ function About() {
               rel="noreferrer"
             >
               <img
-                src="/icons/linkedin.svg"
+                src="icons/linkedin.svg"
                 className="contact-icon"
                 alt="LinkedIn"
               />
