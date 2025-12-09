@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Richie-Portfolio/static/css/main.b56ec30a.css",
+    "main.css": "/Richie-Portfolio/static/css/main.8f2a24c7.css",
     "main.js": "/Richie-Portfolio/static/js/main.1798d1d7.js",
     "static/js/453.43a187e4.chunk.js": "/Richie-Portfolio/static/js/453.43a187e4.chunk.js",
     "index.html": "/Richie-Portfolio/index.html",
-    "main.b56ec30a.css.map": "/Richie-Portfolio/static/css/main.b56ec30a.css.map",
+    "main.8f2a24c7.css.map": "/Richie-Portfolio/static/css/main.8f2a24c7.css.map",
     "main.1798d1d7.js.map": "/Richie-Portfolio/static/js/main.1798d1d7.js.map",
     "453.43a187e4.chunk.js.map": "/Richie-Portfolio/static/js/453.43a187e4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b56ec30a.css",
+    "static/css/main.8f2a24c7.css",
     "static/js/main.1798d1d7.js"
   ]
 }
