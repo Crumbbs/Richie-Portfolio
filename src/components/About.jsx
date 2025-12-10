@@ -152,7 +152,7 @@ function About() {
 
             <a
               className="contact-icon-link"
-              href="https://www.linkedin.com/in/your-linkedin"
+              href="https://www.linkedin.com/in/richie-isjwara-8191141a5/"
               target="_blank"
               rel="noreferrer"
             >
